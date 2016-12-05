@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestCommenString", "LongestCommenString\LongestCommenString.vcxproj", "{0532E3EC-6287-45D1-AB88-3AB5587CBBFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0532E3EC-6287-45D1-AB88-3AB5587CBBFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0532E3EC-6287-45D1-AB88-3AB5587CBBFD}.Debug|Win32.Build.0 = Debug|Win32
+		{0532E3EC-6287-45D1-AB88-3AB5587CBBFD}.Release|Win32.ActiveCfg = Release|Win32
+		{0532E3EC-6287-45D1-AB88-3AB5587CBBFD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

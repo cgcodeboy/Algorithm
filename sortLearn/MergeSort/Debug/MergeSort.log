@@ -1,0 +1,21 @@
+﻿Build started 2016/10/27 13:07:44.
+     1>Project "C:\my_program\vs\algorithmLearn\sortLearn\MergeSort\MergeSort.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Creating directory "Debug\MergeSort.tlog\".
+       InitializeBuildStatus:
+         Creating "Debug\MergeSort.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\my_program\vs\algorithmlearn\sortlearn\mergesort\main.cpp(74): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\my_program\vs\algorithmLearn\sortLearn\Debug\MergeSort.exe" /INCREMENTAL /NOLOGO glew32.lib glfw3.lib SOIL.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\my_program\vs\algorithmLearn\sortLearn\Debug\MergeSort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\my_program\vs\algorithmLearn\sortLearn\Debug\MergeSort.lib" /MACHINE:X86 Debug\main.obj
+         MergeSort.vcxproj -> C:\my_program\vs\algorithmLearn\sortLearn\Debug\MergeSort.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\MergeSort.tlog\unsuccessfulbuild".
+         Touching "Debug\MergeSort.tlog\MergeSort.lastbuildstate".
+     1>Done Building Project "C:\my_program\vs\algorithmLearn\sortLearn\MergeSort\MergeSort.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.95

@@ -1,0 +1,19 @@
+﻿Build started 2016/10/17 22:37:04.
+     1>Project "C:\my_program\vs\algorithmLearn\NewtonSquare\JohnDCarmackSquare\JohnDCarmackSquare.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\JohnDCar.6BFC80FD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\my_program\vs\algorithmlearn\newtonsquare\johndcarmacksquare\main.cpp(19): warning C4244: 'argument' : conversion from 'long' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\my_program\vs\algorithmLearn\NewtonSquare\Debug\JohnDCarmackSquare.exe" /INCREMENTAL /NOLOGO glew32.lib glfw3.lib SOIL.lib opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\my_program\vs\algorithmLearn\NewtonSquare\Debug\JohnDCarmackSquare.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\my_program\vs\algorithmLearn\NewtonSquare\Debug\JohnDCarmackSquare.lib" /MACHINE:X86 Debug\main.obj
+         JohnDCarmackSquare.vcxproj -> C:\my_program\vs\algorithmLearn\NewtonSquare\Debug\JohnDCarmackSquare.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\JohnDCar.6BFC80FD.tlog\unsuccessfulbuild".
+         Touching "Debug\JohnDCar.6BFC80FD.tlog\JohnDCarmackSquare.lastbuildstate".
+     1>Done Building Project "C:\my_program\vs\algorithmLearn\NewtonSquare\JohnDCarmackSquare\JohnDCarmackSquare.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84

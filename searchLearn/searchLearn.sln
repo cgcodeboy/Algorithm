@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "binarySearch", "searchLearn\searchLearn.vcxproj", "{784A77AB-94CE-41FF-87E9-603B80E0C358}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SequenceSearch", "SequentialSearch\SequentialSearch.vcxproj", "{86823BE7-FF47-4C53-ABE6-C8B29968A94B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SequenceListDT_Sqarch", "SequenceListDT_Sqarch\SequenceListDT_Sqarch.vcxproj", "{B072EAD9-4AF4-4237-B222-8F2F7F2EBDB2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkListDT_Search", "LinkListDT_Search\LinkListDT_Search.vcxproj", "{9C762983-CB03-4591-AF9B-3DF1CBDE74CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784A77AB-94CE-41FF-87E9-603B80E0C358}.Debug|Win32.ActiveCfg = Debug|Win32
+		{784A77AB-94CE-41FF-87E9-603B80E0C358}.Debug|Win32.Build.0 = Debug|Win32
+		{784A77AB-94CE-41FF-87E9-603B80E0C358}.Release|Win32.ActiveCfg = Release|Win32
+		{784A77AB-94CE-41FF-87E9-603B80E0C358}.Release|Win32.Build.0 = Release|Win32
+		{86823BE7-FF47-4C53-ABE6-C8B29968A94B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{86823BE7-FF47-4C53-ABE6-C8B29968A94B}.Debug|Win32.Build.0 = Debug|Win32
+		{86823BE7-FF47-4C53-ABE6-C8B29968A94B}.Release|Win32.ActiveCfg = Release|Win32
+		{86823BE7-FF47-4C53-ABE6-C8B29968A94B}.Release|Win32.Build.0 = Release|Win32
+		{B072EAD9-4AF4-4237-B222-8F2F7F2EBDB2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B072EAD9-4AF4-4237-B222-8F2F7F2EBDB2}.Debug|Win32.Build.0 = Debug|Win32
+		{B072EAD9-4AF4-4237-B222-8F2F7F2EBDB2}.Release|Win32.ActiveCfg = Release|Win32
+		{B072EAD9-4AF4-4237-B222-8F2F7F2EBDB2}.Release|Win32.Build.0 = Release|Win32
+		{9C762983-CB03-4591-AF9B-3DF1CBDE74CE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C762983-CB03-4591-AF9B-3DF1CBDE74CE}.Debug|Win32.Build.0 = Debug|Win32
+		{9C762983-CB03-4591-AF9B-3DF1CBDE74CE}.Release|Win32.ActiveCfg = Release|Win32
+		{9C762983-CB03-4591-AF9B-3DF1CBDE74CE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
